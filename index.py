@@ -104,3 +104,7 @@ type(false)
 # can slice
 my_tuple = (1, 2, 3, 4, 5)
 my_tuple = ([1, 2, 3, 4], (5, 6, 7, 8))
+
+#9 Tuple assignment - exclusive for Python only
+a, b = 1, 2
+#a = 1; b = 2
